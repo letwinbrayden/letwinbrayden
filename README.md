@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @letwinbrayden.
-- 🌱 I’m currently learning C/C++.
+- Hi, I’m @letwinbrayden.
+- I’m currently learning C/C++.
 - I'm currently proficient in Python, JavaScript, HTML, CSS.
-- 📫 How to reach me: bletwin@ualberta.ca
+- How to reach me: bletwin@ualberta.ca
 
 <!---
 letwinbrayden/letwinbrayden is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
