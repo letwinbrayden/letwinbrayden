@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @letwinbrayden.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning C/C++.
+- I'm currently proficient in Python, JavaScript, HTML, CSS.
 - 📫 How to reach me: bletwin@ualberta.ca
 
 <!---
