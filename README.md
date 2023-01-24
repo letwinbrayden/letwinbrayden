@@ -1,6 +1,6 @@
 - Hi, I’m @letwinbrayden.
-- I’m currently learning C/C++.
-- I'm currently proficient in Python, JavaScript, HTML, CSS.
+- I’m currently learning Julia.
+- I'm currently proficient in Python, C/C++, JavaScript, HTML, CSS.
 - How to reach me: bletwin@ualberta.ca
 
 <!---
