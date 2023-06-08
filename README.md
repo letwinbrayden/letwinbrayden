@@ -1,5 +1,4 @@
 - Hi, I’m @letwinbrayden.
-- I’m currently learning Julia.
 - I'm currently proficient in Python, C++
 - How to reach me: bletwin@ualberta.ca
 
