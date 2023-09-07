@@ -1,4 +1,4 @@
-bletwin (at) ualberta (dot) ca
+math / algorithms
 
 <!---
 letwinbrayden/letwinbrayden is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
