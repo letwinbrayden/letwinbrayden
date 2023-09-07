@@ -1,6 +1,4 @@
-- Hi, I’m @letwinbrayden.
-- I'm currently proficient in Python, C++
-- How to reach me: bletwin@ualberta.ca
+bletwin (at) ualberta (dot) ca
 
 <!---
 letwinbrayden/letwinbrayden is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
